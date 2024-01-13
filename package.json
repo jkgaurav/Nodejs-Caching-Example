@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-caching-example",
+  "version": "1.0.0",
+  "description": "A Node.js project to demonstrate caching in GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo 'Build step'"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
